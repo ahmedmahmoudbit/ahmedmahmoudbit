@@ -23,7 +23,7 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
 - personal email : algeneral.753@gmail.com
 
 
-<p><a href="http://Wa.me/201555156821" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.facebook.com/ahmed.mahmoud.77" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/abd-el-rahman-fouad-53760720a" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <p>
+<p><a href="http://Wa.me/201008161966" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.facebook.com/ahmed.mahmoud.77" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ahmed-mahmoud-0310b9238" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <p>
 
 <!-- - whatsApp for bussines :http://Wa.me/201555156821
 - business email : a.fouad@mansouracademy.net
@@ -56,19 +56,18 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
 
 <h2> Samples from my projects </h2>
 
-### Medical Empire
-Medicalempire.com is the leading e-commerce in health products market. With a convenient platform for both seller and buyer.<br />
-Medicalempire.com Provides you a reliable shopping experience in one place with a wide range of products Homecare ,Wellness, Nutrition ,Fitness, Medical Equipment, Medical references ,Books, Consumables & Veterinary.
-<p><a href="https://play.google.com/store/apps/details?id=com.medicalempire.medical" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/medical-empire/id1465106135" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+### Al-Mahmoud
+A free Islamic application for everyone free of ads that contains many functions and software algorithms, the application was programmed using the Java language to be the first Islamic application that I publish on the store and it is available on the night mode also in a beautiful format.
+<p><a href="https://play.google.com/store/apps/details?id=com.almahmoudApp.al_mahmoudapp" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
 
 <hr>
 
-### Fosha
+<!-- ### Fosha
 
 Fosha - فسحة is your go-to app for all fun things to do in Egypt.<br />
 Discover trips, activities & events created for you by passionate locals.<br />
 
-<p><a href="https://play.google.com/store/apps/details?id=com.fosha.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/fosha/id1600031499" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.fosha.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/fosha/id1600031499" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p> -->
 
 <!-- - android : https://play.google.com/store/apps/details?id=com.fosha.app
 - ios : https://apps.apple.com/us/app/fosha/id1600031499 -->
