@@ -62,6 +62,12 @@ A free Islamic application for everyone free of ads that contains many functions
 
 <hr>
 
+### الجمع بين الصحيحين
+تطبيق الجمع بين الصحيحين إصدار مركز حفاظ السنة يعرض نسخة رقمية لكتاب الجمع بين الصحيحين مع شرح مختصر له وبيان غريبه وقراءة صوتية مرتبة على الكتب والأبواب مع إمكانية البحث يعين الحافظ والزائر على الاستفادة منه بيسر وسهولة
+
+
+<p><a href="https://play.google.com/store/apps/details?id=com.hoffadhApp&fbclid=IwAR1iWtXcfG6eQlpIP4z5zM-0VuCe643H3nHiIdhKLcWBCPleQtBJs5xg6JY" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/app/id1621893047?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
 <!-- ### Fosha
 
 Fosha - فسحة is your go-to app for all fun things to do in Egypt.<br />
