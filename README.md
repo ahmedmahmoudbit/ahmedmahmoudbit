@@ -70,40 +70,4 @@ A free Islamic application for everyone free of ads that contains many functions
 
 <p><a href="https://play.google.com/store/apps/details?id=com.hoffadhApp&fbclid=IwAR1iWtXcfG6eQlpIP4z5zM-0VuCe643H3nHiIdhKLcWBCPleQtBJs5xg6JY" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/app/id1621893047?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
-<!-- ### Fosha
-
-Fosha - فسحة is your go-to app for all fun things to do in Egypt.<br />
-Discover trips, activities & events created for you by passionate locals.<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=com.fosha.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/fosha/id1600031499" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p> -->
-
-<!-- - android : https://play.google.com/store/apps/details?id=com.fosha.app
-- ios : https://apps.apple.com/us/app/fosha/id1600031499 -->
- 
- 
-<!--  <hr>
- 
-<br/>
- <h2> Statistics</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanFouad1&show_icons=true&show_icons=true&theme=radical" alt="github-stats" />
-</p>
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanFouad1&layout=compact&show_icons=true&theme=radical" alt="top-langs" />
- </p>
-  <td>  -->
-
-
-
-<!--
-**AbdelrahmanFouad1/AbdelrahmanFouad1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
