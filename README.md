@@ -69,7 +69,12 @@ A free Islamic application for everyone free of ads that contains many functions
 
  ### Note Book For Events
 Provides assistance to people in resolving the crisis of occasion, as most record events in the external paper, and on each occasion, he needs to refer to this paper again so that he can know the amount he gave to this person and also the paper may be damaged or cut. That's why this app appearedt.
-<p><a href="[https://play.google.com/store/apps/details?id=com.almahmoudApp.al_mahmoudapp](https://play.google.com/store/apps/details?id=com.geekdev.almazroof&hl=ar&gl=US)" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
+<p><a href="https://play.google.com/store/apps/details?id=com.almahmoudApp.al_mahmoudapp" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
+
+
+ ### I'm developer
+Provides assistance to people in resolving the crisis of occasion, as most record events in the external paper, and on each occasion, he needs to refer to this paper again so that he can know the amount he gave to this person and also the paper may be damaged or cut. That's why this app appearedt.
+<p><a href="https://play.google.com/store/apps/details?id=com.geecoders.iamdeveloper" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
 
 ### الجمع بين الصحيحين
 تطبيق الجمع بين الصحيحين إصدار مركز حفاظ السنة يعرض نسخة رقمية لكتاب الجمع بين الصحيحين مع شرح مختصر له وبيان غريبه وقراءة صوتية مرتبة على الكتب والأبواب مع إمكانية البحث يعين الحافظ والزائر على الاستفادة منه بيسر وسهولة
