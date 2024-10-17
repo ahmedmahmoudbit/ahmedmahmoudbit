@@ -38,7 +38,7 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
 
 
 
-<h2> Languages and Tools </h2>
+## 🚀 Languages and Tools:
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,java" />
@@ -46,17 +46,19 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
     <img src="https://skillicons.dev/icons?i=linux,mongo,python,kotlin,kotlincompose,compose" /><br>
 </div>
 
-<!-- 
-<p><img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-<p><img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" /> 
-<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" /> 
-<img align="left" alt=“Java” width="26px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" /> 
-<img align="left" alt=“Android” width="26px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" />
-<img align="left" alt=“Trello” width="26px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" />
-<img align="left" alt=“Postman” width="26px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-<img align="left" alt=“Git” width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
- <br/>
- <br/> -->
+<!-- ======= Flutter Skills Section ======= -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Flutter Skills:</b>
+
+- Experience in developing mobile applications using the Flutter framework.
+- Excellent understanding of the full mobile development life cycle.
+- Networking & Data Persistent: Proficiency in Restful APIs, Dio, HTTP, Hive, Firebase.
+- Experience in Git and GitHub for version control and collaboration.
+- Experience with Bloc for state management.
+- Excellent understanding of OOP, Architecture Design Patterns, and SOLID Principles.
+- Experience in releasing Android applications.
+
+<br>
+
 <hr>
 
 
