@@ -41,7 +41,7 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
 <h2> Languages and Tools </h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,java" />
     <img src="https://skillicons.dev/icons?i=github,git,androidstudio,vscode,figma,postman" /><br>
     <img src="https://skillicons.dev/icons?i=linux,mongo,html,css" /><br>
 </div>
