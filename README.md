@@ -75,6 +75,8 @@ Provides assistance to people in resolving the crisis of occasion, as most recor
 
  ### I'm developer
 Provides assistance to people in resolving the crisis of occasion, as most record events in the external paper, and on each occasion, he needs to refer to this paper again so that he can know the amount he gave to this person and also the paper may be damaged or cut. That's why this app appearedt.
+<p><a href="https://play.google.com/store/apps/details?id=com.geecoders.iamdeveloper&hl=ar" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
+
 
 
 ### الجمع بين الصحيحين
@@ -83,5 +85,3 @@ Provides assistance to people in resolving the crisis of occasion, as most recor
 
 <p><a href="https://play.google.com/store/apps/details?id=com.hoffadhApp&fbclid=IwAR1iWtXcfG6eQlpIP4z5zM-0VuCe643H3nHiIdhKLcWBCPleQtBJs5xg6JY" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/app/id1621893047?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
  
-
- ![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
