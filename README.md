@@ -47,7 +47,7 @@ AbdelrahmanFouad1" target="_blank"><img alt="Github2" src="https://img.shields.i
 </div>
 
 <!-- ======= Flutter Skills Section ======= -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b>    Flutter Skills:</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> - Flutter Skills:</b>
 
 - Experience in developing mobile applications using the Flutter framework.
 - Excellent understanding of the full mobile development life cycle.
